@@ -1,20 +1,20 @@
 <p align="center">
-<a href="https://github.com/anonphoenix007"><img title="Author" src="https://img.shields.io/badge/Author_Of-MAKINO_V2-black"></a>
+<a href="https://github.com/MrFr3nk"><img title="Author" src="https://img.shields.io/badge/Author_Of-MAKINO_V2-black"></a>
 
 <p align="center">  
-  <a href="https://wa.me/2347080968564">
+  <a href="https://wa.me/263719647303">
     <img alt="X-2.0" height="300" src="https://telegra.ph/file/7aa528767ed96ddc17bc2.jpg">
-    <h1 align="center">MAKINO-MD-V2</h1>
+    <h1 align="center">SubZero-MD</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/anonphoenix007"><img title="Author" src="https://img.shields.io/badge/Makino-MDv2-black?style=for-the-badge&logo=twitter"></a>
+<a href="https://github.com/MrFr3nk"><img title="Author" src="https://img.shields.io/badge/Makino-MDv2-black?style=for-the-badge&logo=twitter"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/anonphoenix007?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/anonphoenix007/MAKINO-MD-V2?&style=social"></a>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/anonphoenix007/MAKINO-MD-V2?style=social"></a>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anonphoenix007/MAKINO-MD-V2?label=Watching&style=social"></a>
+<a href="https://github.com/MrFr3nk?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
+<a href="https://github.com/MrFr3nk/Subzero-MD-2/stargazers/"><img title="Stars" src="https://github.com/MrFr3nk/Subzero-MD-2?&style=social"></a>
+<a href="https://github.com/MrFr3nk/Subzero-MD-2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/MrFr3nk/subzero-MD-2?style=social"></a>
+<a href="https://github.com/MrFr3nk/Subzero-MD-2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MrFr3nk/Subzero-MD-V2?label=Watching&style=social"></a>
 </p>
 
 #### Notice
@@ -26,7 +26,7 @@ If you create a clone of my bot from my ***REPOSITORY*** then Don't forget to gi
 
 1. Fork the repo
     <br>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/fork"><img title="MAKINO-MD-V2" src="https://img.shields.io/badge/FORK_MAKINO-MD_V2-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/MrFr3nk/Subzero-MD-2/fork"><img title="MAKINO-MD-V2" src="https://img.shields.io/badge/FORK_Subzero-MD_V2-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan or pair to get session ID
     <br>
@@ -37,11 +37,11 @@ If you create a clone of my bot from my ***REPOSITORY*** then Don't forget to gi
 1. Fork This Repository 
 2. Update [`config.js`] if you want to or skip
 ```js
-global.Owner = ["2347080968564"]; 
-global.OwnerNumber = ["2347080968564"];
-global.ownertag = ["2347080968564"];
-global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "🐦Makino-md-v2";
+global.Owner = ["263719647303"]; 
+global.OwnerNumber = ["263719647303"];
+global.ownertag = ["263719647303"];
+global.OwnerName = "Mr Frank";
+global.BotName = "Sun0bzero-md-v2";
 ```
 
 #### DEPLOY TO HEROKU 
@@ -51,7 +51,7 @@ global.BotName = "🐦Makino-md-v2";
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 2. Now Deploy
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Anonphoenix007/MAKINO-MD-V2' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/MrFr3nk/Subzero-MD-2' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO CODESPACE
@@ -108,12 +108,12 @@ global.BotName = "🐦Makino-md-v2";
 ---
 # `Guide`📕
 
-- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/anonphoenix007/MAKINO-MD-V2/blob/main/guide.md)
+- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/MrFr3nk/Subzero-MD-2/blob/main/guide.md)
 ---
 
 ## ```Support Me```
-<a href='https://www.instagram.com/anonphoenix007' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
-<a href='https://wa.me/2347080968564' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://www.instagram.com/mrfrankofc' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
+<a href='https://wa.me/263719647303' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 <a href='https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 <a href='https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 <a href='https://www.youtube.com' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/SUBSCRIBE-h?color=black&style=for-the-badge&logo=youtube' width="96.35" height="28"/></a></p>
@@ -133,9 +133,9 @@ global.BotName = "🐦Makino-md-v2";
  ## 🎯 Authors 🎯
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/anonphoenix007.png?size=150)](https://github.com/anonphoenix007) |
+| [Mr Frank](https://github.com/MrFre03nk.png?size=150)](https://github.com/MrFr3nk) |
 |----|
-| [  Tᴀɪʀᴀ Mᴀᴋɪɴᴏ ](https://github.com/anonphoenix007) |
+| [  Tᴀɪʀᴀ Mᴀᴋɪɴᴏ ](https://github.com/MrFr3nk) |
 |  Developer |
 
   </div>
@@ -154,9 +154,8 @@ global.BotName = "🐦Makino-md-v2";
   
    ## `Special Thanks To`
 
-* [`📕 Kai..!!`](https://github.com/Kai0071)
-* [`📕 Guru`](https://github.com/Guru322)
-* [`📕 V.e.n.o.x`](https://github.com/V-E-N-O-X )
+
+* [`📕 Mr Frank Ofc`](https://github.com/V-E-N-O-X )
 ---------
 
 
@@ -164,7 +163,7 @@ global.BotName = "🐦Makino-md-v2";
 </h1>
 
 </p>
-<h1 align="center"> ✧Big thanks To Kai0071!!!✧
+<h1 align="center"> ✧Big thanks To Darrell1!!!✧
 </h1>
 
 ---
