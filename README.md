@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://wa.me/263719647303">
-    <img alt="X-2.0" height="300" src="[https://telegra.ph/file/7aa528767ed96ddc17bc2.jpg](https://i.postimg.cc/vT2VNXct/In-Shot-20240427-170957712.jpg)">
+    <img alt="X-2.0" height="300" src="https://i.postimg.cc/vT2VNXct/In-Shot-20240427-170957712.jpg">
     <h1 align="center">SubZero-MD</h1>
   </a>
 </p>
