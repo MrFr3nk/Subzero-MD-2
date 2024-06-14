@@ -133,9 +133,9 @@ global.BotName = "Sun0bzero-md-v2";
  ## 🎯 Authors 🎯
   <div align="center">
   
-| [Mr Frank](https://github.com/MrFre03nk.png?size=150)](https://github.com/MrFr3nk) |
+| [Mr Frank](https://github.com/MrFr3nk.png?size=150)](https://github.com/MrFr3nk) |
 |----|
-| [  Tᴀɪʀᴀ Mᴀᴋɪɴᴏ ](https://github.com/MrFr3nk) |
+| (https://github.com/MrFr3nk) |
 |  Developer |
 
   </div>
@@ -163,7 +163,7 @@ global.BotName = "Sun0bzero-md-v2";
 </h1>
 
 </p>
-<h1 align="center"> ✧Big thanks To Darrell1!!!✧
+<h1 align="center"> ✧ Big thanks To Darrell !!! ✧
 </h1>
 
 ---
