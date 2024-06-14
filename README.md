@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://wa.me/263719647303">
-    <img alt="X-2.0" height="300" src="https://telegra.ph/file/7aa528767ed96ddc17bc2.jpg">
+    <img alt="X-2.0" height="300" src="[https://telegra.ph/file/7aa528767ed96ddc17bc2.jpg](https://i.postimg.cc/vT2VNXct/In-Shot-20240427-170957712.jpg)">
     <h1 align="center">SubZero-MD</h1>
   </a>
 </p>
@@ -11,7 +11,7 @@
 <a href="https://github.com/MrFr3nk"><img title="Author" src="https://img.shields.io/badge/Makino-MDv2-black?style=for-the-badge&logo=twitter"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/MrFr3nk?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
+<a href="https://github.com/MrFr3nk?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MrFr3nk?label=Followers&style=social"></a>
 <a href="https://github.com/MrFr3nk/Subzero-MD-2/stargazers/"><img title="Stars" src="https://github.com/MrFr3nk/Subzero-MD-2?&style=social"></a>
 <a href="https://github.com/MrFr3nk/Subzero-MD-2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/MrFr3nk/subzero-MD-2?style=social"></a>
 <a href="https://github.com/MrFr3nk/Subzero-MD-2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MrFr3nk/Subzero-MD-V2?label=Watching&style=social"></a>
