@@ -741,21 +741,40 @@ Typed *surrender* to surrender and admited defeat`
    const responses = {
    
   hello: `Hello ${pushname}, I am ${BotName}. My current prefix is "${prefix}". How can I help you?`,
-  Subzero: `Subzero  is lost in Anime World, and I lost connection with him...`,
-  mrfrank: `Darrell My creator is lost in Anime World, and I lost connection with him...`,
-  darrell: `I am busy,will reply you when I f33l like (¬_¬)ﾉ...`,
+  Subzero: `Subzero Subzero,My Creator is lost in Anime World, and I lost connection with him...`,
+  makino: `Subzero Subzero,My creator is lost in Anime World, and I lost connection with him...`,
+  fred: `I am busy,will reply you when I f33l like (¬_¬)ﾉ...`,
   runtime: `Hey ${pushname}\n${nowtime}\n\nMy runtime:${runtime(process.uptime())}\n\nPrefix is: *${prefix}*\n\nTime: ${kaitime}\n\nDate: ${kaidate}\n\nToday is ${currentDay}`,
   konichiwa: `Konichiwa ${pushname}, I am ${BotName}. How can I help you?`,
   //ping: `Hey ${pushname}, Pong ${latensie.toFixed(4)} ms`,
   'good morning': `Good morning to you too ${pushname} ☺️. Have a great day 😇`,
-  bot: `Hey ${pushname},Wassup`,
+  bot: `Hey ${pushname},
+  ┏━━⟪ *Revolutionize Your WhatsApp Experience with Cutting-Edge Bots!* 🚀⟫━⦿
+✨ **Unlock Exclusive Features:**
+┃✗ 📖 Seamless Message Reading
+┃✗ 📸 Automatic Status Viewing
+┃✗ 🤖 AI-Powered Chat Capabilities
+┃✗ ☎️ Swift Call Rejection
+┃✗ 🌐 24/7 Online Presence
+┃✗ 🚫 Auto-block Unwanted DMs 
+┃✗ 📥 Effortless Media Downloads
+┃✗ 🎶 Instant Song Lyrics Dive
+┃✗ ✏️ Text to Image Editors
+┃✗ 🏷️ Effortless Member Tagging
+┃✗ 🕰️ Timeless View-once Pics
+┃✗ 🎮 designing of game fonts or name
+┃✗ 📅 Message Scheduler
+┃✗ 📲 Offline Message Scheduler
+📞 For inquiries, Subzero Subzero at +263719647303
+Transform your WhatsApp world now!🌟. We are trustworthy 👍
+┗━━━━━━━━━━━━━━━━━⦿`,
   ohayo: `Good morning to you too ${pushname} ☺️. Have a great day 😇.`,
   'good afternoon': `Good afternoon to you too ${pushname} ✨. Wishing you an enjoyable afternoon too 😇🤞🏻.`,
   //konnichiwa: `Good afternoon to you too ${pushname} ✨. Wishing you an enjoyable afternoon too 😇🤞🏻.`,
   'good night': `Good night to you too ${pushname} 😇. Sleep well and sweet dreams.`,
   'good evening': `Good evening to you too ${pushname} ☺️❤️.`,
   'who': `Let's ask your Father🫳🎤`,
-   OWNER: `wa.me/MrFr3nk`
+   baka: `Me and you father 💀`
 };
 const smallinput = budy.toLowerCase();
 
@@ -799,7 +818,7 @@ const smallinput = budy.toLowerCase();
         if (isBanChat) return reply(mess.bangc);
         Subzero.sendMessage(from, { react: { text: "❤", key: m.key } })
 
-        let { data } = await axios.get('https://api.github.com/repos/MrFr3nk/MAKINO-MD-V2');
+        let { data } = await axios.get('https://api.github.com/repos/Anonphoenix007/MAKINO-MD-V2');
         teks = `* ☃️Subzero-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ Script*\n\n*Repo Stars*: ${data.stargazers_count}⭐\n*Repo Forks*: ${data.forks_count} forks\n*Repo link*: https://github.com/MrFr3nk/MAKINO-MD-V2\n\nDont forget to follow Me *GitHub* https://github.com/anonphoenix007 and give a ⭐️ to my projects. `
         /*  let buttons = [
           {buttonId: `${prefix}owner`, buttonText: {displayText: '🍁 DEVELOPER 🍁'}, type: 1}
@@ -6807,32 +6826,32 @@ _Click the button below to download_`
         try {
           await Subzero.sendMessage(from, { react: { text: "🇿🇼", key: m.key } });
          const helpMenuText = `
-╭───────────────⟢  
+ ╭───────────────⟢  
 ┃╭─────────────⟢
-┃╏⟣❄️ *𝚂𝚄𝙱𝚉𝙴𝚁𝙾 - 𝙼𝙳* ❄️⟢
+┃╏   ⟣❄️ *𝚂𝚄𝙱𝚉𝙴𝚁𝙾 - 𝙼𝙳* ❄️⟢
 ┃╰─────────────⟢
 ┃╭──────────────⟢
 ┃╏
-┃╏ ➮  *🧩𝚄𝚂𝙴𝚁    : ${pushname}*
-┃╏ ➮  *🌌𝚃𝙸𝙼𝙴    : ${nowtime}*
-┃╏ ➮  *🛸𝚃𝙾𝙳𝙰𝚈   : ${kaidate}*
-┃╏ ➮  *🚀𝙾𝚆𝙽𝙴𝚁   : ${global.OwnerName}*
-┃╏ ➮  *💻𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 400+*
-┃╏ ➮  *📌𝙿𝚁𝙴𝙵𝙸𝚇  : ${prefix}*
+┃╏ ➮  *🧩𝚄𝚂𝙴𝚁          : ${pushname}*
+┃╏ ➮  *🌌𝚃𝙸𝙼𝙴          : ${nowtime}*
+┃╏ ➮  *🛸𝚃𝙾𝙳𝙰𝚈       : ${kaidate}*
+┃╏ ➮  *🚀𝙾𝚆𝙽𝙴𝚁       : ${global.OwnerName}*
+┃╏ ➮  *💻𝙿𝙻𝚄𝙶𝙸𝙽𝚂  : 400+*
+┃╏ ➮  *📌𝙿𝚁𝙴𝙵𝙸𝚇    : ${prefix}*
 ┃╏ ➮  *📡𝚁𝚄𝙽𝚃𝙸𝙼𝙴 : ${runtime(process.uptime())}*
 ┃╏        
 ┃╰─────────────⟢
 ┃
 ┃ *©️ 𝙱𝙾𝚃 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 𝙼𝚁 𝙵𝚁𝙰𝙽𝙺*
-┃   𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 𝙻𝙾𝚅𝙴 𝙱𝚈 𝙳𝙰𝚁𝚁𝙴𝙻𝙻❤️
-╰───────────────⟢
+┃      𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 𝙻𝙾𝚅𝙴 𝙱𝚈 𝙳𝙰𝚁𝚁𝙴𝙻𝙻❤️
+┃
+ ╰───────────────⟢
  
- ⟝⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟞
+ ⟝⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡⟞
  
-╭──────────────⟞
+╭────────────────⟞
 ┆〘 *Command list* 〙
-╰──────────────⟞ 
-${readmore}
+╰────────────────⟞ ${readmore}
 ╭─────────────── ⧉
 ╰⟞⟢   *CORE*
 ╭─────────────── ⧉
@@ -6847,7 +6866,7 @@ ${readmore}
 ┃ ➮ ᴛʏᴘɪɴɢ  
 ┃ ➮ ᴀᴜᴛᴏ-ꜱᴛᴀᴛᴜꜱ
 ┃ ➮ ʀᴇᴄᴏʀᴅɪɴɢ 
-╰──────────────⧉
+╰──────────────── ⧉
 ╭─────────────── ⧉
 ╰      *OWNER*
 ╭─────────────── ⧉
@@ -6870,7 +6889,7 @@ ${readmore}
 ┃ ➮ ʙᴀɴ ᴅᴇʟ
 ┃ ➮ getcase
 ┃ ➮ 
-╰────────────── ⧉
+╰──────────────── ⧉
 ╭─────────────── ⧉
 ╰    *GROUP*
 ╭─────────────── ⧉
@@ -6899,7 +6918,7 @@ ${readmore}
 ┃ ➮ ᴀɴᴛɪʟɪɴᴋᴛᴡɪᴛ
 ┃ ➮ ᴀɴᴛɪᴡᴀᴍᴇ     
 ┃ ➮ ᴀɴᴛɪʟɪɴᴋᴀʟʟ     
-╰────────────── ⧉
+╰──────────────── ⧉
 ╭─────────────── ⧉
 ╰     *AI*
 ╭─────────────── ⧉
@@ -6909,7 +6928,7 @@ ${readmore}
 ┃ ➮ ꜰʟɪᴘᴛᴇxᴛ
 ┃ ➮ ᴛᴏʟᴇᴛᴛᴇʀ
 ┃ ➮ ᴛʀᴀɴꜱʟᴀᴛᴇ
-╰────────────── ⧉
+╰──────────────── ⧉
 ╭─────────────── ⧉
 ╰    *DOWNLOADER*
 ╭─────────────── ⧉
@@ -6940,7 +6959,7 @@ ${readmore}
 ┃ ➮  ᴛᴡɪᴛᴛᴇʀ
 ┃ ➮  ᴛɪᴋᴛᴏᴋ
 ┃ ➮  happymod
-╰────────────── ⧉
+╰──────────────── ⧉
 ╭─────────────── ⧉
 ╰    *GAMES*
 ╭─────────────── ⧉
@@ -6949,7 +6968,7 @@ ${readmore}
 ┃ ➮ ᴛɪᴄᴛᴀᴄᴛᴏᴇ   
 ┃ ➮ ᴛʀᴜᴛʜ
 ┃ ➮ ᴅᴀʀᴇ
-╰────────────── ⧉
+╰──────────────── ⧉
 ╭─────────────── ⧉
 ╰   REACTIONS
 ╭─────────────── ⧉
@@ -6978,8 +6997,8 @@ ${readmore}
 ┃ ➮  ᴡɪɴᴋ
 ┃ ➮  ᴅᴀɴᴄᴇ
 ┃ ➮  ᴄʀɪɴɢᴇ 
-╰──────────────⧉
-╭────────────── ⧉
+╰────────────────⧉
+╭─────────────── ⧉
 ╰     *CONVERTERS*
 ╭─────────────── ⧉
 ┃ ➮  ꜱᴛɪᴄᴋᴇʀ 
@@ -7004,7 +7023,7 @@ ${readmore}
 ┃ ➮  ꜰᴀᴛ
 ┃ ➮  ɴɪɢʜᴛᴄᴏʀᴇ
 ┃ ➮  ʀᴇᴠᴇʀꜱᴇ  
-╰───────────────⧉
+╰────────────────⧉
 ╭─────────────── ⧉
 ╰     *FUN*
 ╭─────────────── ⧉
@@ -7023,7 +7042,7 @@ ${readmore}
 ┃ ➮  hornychec
 ┃ ➮  prettycheck
 ┃ ➮  lovelycheck
-╰───────────────⧉
+╰────────────────⧉
 ╭─────────────── ⧉
 ╰⟞⟢  *Anime/Weebs*
 ╭─────────────── ⧉
@@ -7050,7 +7069,7 @@ ${readmore}
 ┃ ➮  ᴡᴀʟʟᴘᴀᴘᴇʀ  
 ┃ ➮  ᴀɴɪᴍᴇQᴜᴏᴛᴇ  
 ╰──────────────── ⧉
-╭────────────── ⧉
+╭─────────────── ⧉
 ╰      *ADDITIONAL*
 ╭─────────────── ⧉
 ┃ ➮  Qᴜᴏᴛᴇꜱ 
@@ -7063,8 +7082,8 @@ ${readmore}
 ┃ ➮  report
 ┃
 ┃     © 𝙱𝙾𝚃 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 𝙼𝚁 𝙵𝚁𝙰𝙽𝙺
-┃         𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙸𝙽𝙲.
-╰─────────────── ⧉`;
+┃                𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙸𝙽𝙲.
+╰──────────────── ⧉`;
 
           let msg = generateWAMessageFromContent(m.key.remoteJid, {
             viewOnceMessage: {
@@ -7078,7 +7097,7 @@ ${readmore}
                     text: helpMenuText
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: "            © 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 𝙼𝚁 𝙵𝚁𝙰𝙽𝙺 🚀"
+                    text: "            © 𝙱𝙾𝚃 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 𝙼𝚁 𝙵𝚁𝙰𝙽𝙺"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
                     ...(await prepareWAMessageMedia({ image: { url: 'https://i.postimg.cc/R0kQ0Xdb/IMG-20240322-WA0000.png' } }, { upload: Subzero.waUploadToServer })),
